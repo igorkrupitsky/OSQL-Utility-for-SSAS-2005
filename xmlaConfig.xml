@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<settings>
+	<url>http://localhost/xmla2005/msmdpump.dll</url>
+	<user>username</user>
+	<password>password</password>
+</settings>
